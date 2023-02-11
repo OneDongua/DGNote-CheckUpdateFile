@@ -1,5 +1,5 @@
 # DGNote-Update
 
-Update repo for app DGNote.
+The update repo for DGNote app.
 
-冬瓜便签升级所用仓库
+冬瓜便签升级用仓库
